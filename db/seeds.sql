@@ -1,0 +1,3 @@
+INSERT INTO burgers (burger_name, burger_src) VALUES ('Big Badass Burger', 'https://s3.amazonaws.com/btoimage/prism-thumbnails/articles/58a0-20151125-late-night-burger-toronto.jpg-resize_then_crop-_frame_bg_color_FFF-h_480-gravity_center-q_70-preserve_ratio_true-w_720_.webp');
+INSERT INTO burgers (burger_name, burger_src) VALUES ('Pescapescatarian Burger','https://cdn-image.foodandwine.com/sites/default/files/styles/medium_2x/public/201208-xl-spicy-tuna-burgers-with-soy-glaze.jpg?itok=bdag0zoH');
+INSERT INTO burgers (burger_name, burger_src) VALUES ('Whataburger', 'http://leahdeleon.com/wp-content/uploads/2014/11/food65-burger-bacon-cheese-1024x778.jpg');

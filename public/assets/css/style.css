@@ -1,0 +1,47 @@
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.burger_img{
+  width: 100px;
+}
+
+#burger_order_col{
+  vertical-align: top;
+}
+
+#burger_devoured_col{
+  vertical-align: top;
+}
+
+.burger_list{
+  width:250px;
+  background-color:lightgrey;
+}
+
+.burger_image_list{
+  width:100px;
+  vertical-align: center;
+  margin: 0 auto;
+  background-color:lightgrey;
+}
+
+.burger_eat{
+  width:100px;
+  background-color:lightgrey;
+  text-align: center;
+}
